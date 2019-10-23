@@ -1,4 +1,4 @@
-# cupcakes
+# Cupcakes
 Issues with cupcake based words for testing purposes
 
 ## Thanks
