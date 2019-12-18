@@ -13,4 +13,4 @@ jobs:
       uses: srggrs/assign-one-project-github-action@1.1.0
       with:
         # Assigned Project
-        project: 'https://github.com/brosela/cupcakes/projects/1'
+        project: 'https://www.github.com/brosela/cupcakes/projects/1'
