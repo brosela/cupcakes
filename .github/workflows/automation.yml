@@ -1,0 +1,14 @@
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  assign_one_project:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Assign to One Project
+      uses: srggrs/assign-one-project-github-action@1.1.0
+      with:
+        # Assigned Project
+        project: https://github.com/brosela/cupcakes/projects/1
