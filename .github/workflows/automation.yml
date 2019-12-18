@@ -1,7 +1,9 @@
 on:
   issues:
     types: [opened]
-
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  key: hello_world
 jobs:
   assign_one_project:
     runs-on: ubuntu-latest
