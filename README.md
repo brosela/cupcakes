@@ -5,6 +5,7 @@ Issues with cupcake based words for testing purposes
 - American
 - Italian
 - Swiss
+- Cream cheese
 
 ## Powdered Sugar Ratios
 - 1/2 c butter to 2 c powdered sugar
