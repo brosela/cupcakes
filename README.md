@@ -1,5 +1,5 @@
 # Cupcakes
-Issues with cupcake based words for testing purposes
+Issues with baking based words for testing purposes.
 
 ## Types of Buttercream
 - American
@@ -9,6 +9,13 @@ Issues with cupcake based words for testing purposes
 
 ## Powdered Sugar Ratios
 - 1/2 c butter to 2 c powdered sugar
+
+## Rescuing Buttercream
+
+### From curdling
+- Heat up that metal bowl gently with a blow dryer
+- Keep mixing
+- Saved!
 
 ## Thanks
 Shout out to http://www.cupcakeipsum.com for text generation 🧁
