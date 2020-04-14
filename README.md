@@ -9,6 +9,7 @@ Issues with baking based words for testing purposes.
 
 ## Powdered Sugar Ratios
 - 1/2 c butter to 2 c powdered sugar
+- 3/4 c butter to 1.5 c powdered sugar when adding caramel
 
 ## Rescuing Buttercream
 
