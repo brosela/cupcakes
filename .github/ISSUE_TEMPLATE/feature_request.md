@@ -1,20 +1,27 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 👩‍🍳Recipe Idea
+about: Suggest the start of a new recipe
 title: ''
-labels: Feature request
+labels: recipe
 assignees: labrose
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Description**
+What exactly are we trying to bake here?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Flavors**
+- A list
+- Of key
+- Flavors or ingredients
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Event**
+What type of event would you bring these cupcakes to?
+
+- [ ] Birthday party
+- [ ] Wedding
+- [ ] BBQ
+- [ ] Other: _please specify_
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any additional ideas you have for this recipe.
