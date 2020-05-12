@@ -15,7 +15,7 @@ Issues with baking based words for testing purposes.
 ### From curdling
 - Heat up that metal bowl gently with a blow dryer
 - Keep mixing
-- Saved!
+- Saved! :tada:
 
 ## Thanks
 Shout out to http://www.cupcakeipsum.com for text generation 🧁
