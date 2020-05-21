@@ -5,6 +5,6 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  pathPrefix: "/cupcakes",
   plugins: [],
 }
