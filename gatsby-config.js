@@ -5,6 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/cupcakes",
+  pathPrefix: "/cupcakes/site",
   plugins: [],
 }
