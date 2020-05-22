@@ -1,5 +1,5 @@
 # Cupcakes
-Issues with baking based words for testing purposes.
+Demo repository that leverages issues and a [mini gatsbyjs site](https://brosela.github.io/cupcakes) hosted with [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages) all themed around baking cupcakes!
 
 ## Types of Buttercream
 - American
@@ -19,3 +19,5 @@ Issues with baking based words for testing purposes.
 
 ## Thanks
 Shout out to http://www.cupcakeipsum.com for text generation 🧁
+
+Thank you to https://www.gatsbyjs.org/ for great site tutorials 📑
