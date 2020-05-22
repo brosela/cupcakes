@@ -1,11 +1,16 @@
 import React from "react"
-import Layout from "../components/layout"
+import { BaseStyles, ButtonPrimary, UnderlineNav } from "@primer/components"
 
 export default function Home() {
   return (
-    <Layout>
-      <h1>Hello Cupcakes!</h1>
-      <p>What a treat.</p>
-    </Layout>
+    <BaseStyles>
+        <UnderlineNav aria-label="Main">
+        <UnderlineNav.Link href="/" selected>Home</UnderlineNav.Link>
+        <UnderlineNav.Link href="/about/">About</UnderlineNav.Link>
+        </UnderlineNav>    
+        <h1>Hello Cupcakes!</h1>
+        <p>What a treat.</p>
+        <ButtonPrimary>Click Me!</ButtonPrimary>
+    </BaseStyles>
   );
 }

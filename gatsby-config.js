@@ -6,12 +6,5 @@
 
 module.exports = {
   pathPrefix: "/cupcakes",
-  plugins: [
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
-  ],
+  plugins: [],
 }
