@@ -17,6 +17,12 @@ Demo repository that leverages issues and a [mini gatsbyjs site](https://brosela
 - Keep mixing
 - Saved!
 
+### From being too soft
+- Prepare an ice bath
+- Place butter cream in ice bath
+- Keep mixing
+- Saved!
+
 ## Thanks
 Shout out to http://www.cupcakeipsum.com for text generation 🧁
 
