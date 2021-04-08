@@ -3,7 +3,7 @@ name: 🍴Technique
 about: Start a discussion about a new baking technique
 title: ''
 labels: discussion
-assignees: ''
+assignees: 'labrose'
 
 ---
 
